@@ -1,79 +1,79 @@
-﻿Concejo,Área San,Total 2ª onda,Acum 14d,Acum 7d
-Allande,2,47,0,0
-Aller,7,197,12,8
-Amieva,6,2,0,2
-Avilés,3,2147,140,90
-Belmonte de Miranda / Miranda,4,16,0,0
-Bimenes,4,38,0,0
-Boal / Bual,1,6,0,0
-Cabrales,6,15,0,1
-Cabranes,4,8,0,1
-Candamo / Candamu,4,18,1,2
-Cangas del Narcea,2,255,12,11
-Cangas de Onís,6,84,1,1
-Caravia,6,,,
-Carreño,5,254,5,1
-Caso / Casu,8,11,0,0
-Castrillón,3,534,86,32
-Castropol,1,11,0,0
-Coaña / Cuaña,1,26,1,4
-Colunga,6,36,2,1
-Corvera de Asturias / Corvera,3,327,50,20
-Cudillero / Cuideiru,3,107,4,2
-Degaña,2,,0,
-"Franco, El",1,20,1,1
-Gijón,5,8522,364,187
-Gozón,3,253,9,2
-Grado / Grau,4,177,57,50
-Grandas de Salime,1,5,0,0
-Ibias,2,16,0,0
-Illano / Eilao,1,,0,
-Illas,3,23,6,4
-Langreo / Llangréu,8,1366,83,48
-Laviana,8,586,2,1
-Lena,7,439,12,3
-Valdés,1,191,4,2
-Llanera,4,243,13,8
-Llanes,6,169,5,4
-Mieres,7,968,74,44
-Morcín,4,34,2,0
-Muros de Nalón / Muros,3,30,6,3
-Nava,4,112,2,2
-Navia,1,51,7,2
-Noreña,4,98,0,0
-Onís,6,6,0,0
-Oviedo,4,4818,362,210
-Parres,6,86,2,1
-Peñamellera Alta,6,,,
-Peñamellera Baja,6,14,0,2
-Pesoz / Pezós,1,1,0,0
-Piloña,6,76,2,3
-Ponga,6,14,0,0
-Pravia,3,124,6,2
-Proaza,4,6,0,0
-Quirós,4,19,6,1
-"Regueras, Las / Regueres, Les",4,24,3,1
-Ribadedeva / Ribedeva,6,9,2,2
-Ribadesella / Ribesella,6,43,1,1
-Ribera de Arriba,4,22,2,2
-Riosa,4,59,2,0
-Salas,4,46,0,0
-SMRA,8,503,9,8
-San Martín de Oscos / Samartín d'Ozcos,1,,,
-Santa Eulalia de Oscos / Santalla d'Ozcos,1,,,
-San Tirso de Abres / San Tiso d'Abres,1,3,0,1
-Santo Adriano / Santu Adrianu,4,,4,
-Sariego,4,16,0,0
-Siero,4,1213,53,31
-Sobrescobio / Sobrescobiu,8,36,0,0
-Somiedo / Somiedu,4,10,0,6
-Soto del Barco,3,130,6,4
-Tapia de Casariego,1,23,6,6
-Taramundi,1,6,0,1
-Teverga,4,45,0,2
-Tineo,2,128,3,1
-Vegadeo,1,21,0,0
-Villanueva de Oscos,1,,,
-Villaviciosa,5,362,5,4
-Villayón,1,,,
-Yernes y Tameza / Tameza,4,,,
+﻿Concejo,Área San,Olas 2 y 3,Acum 14d,Acum 7d,Acum 1d
+Allande,2,47,0,0,0
+Aller,7,208,19,11,2
+Amieva,6,2,0,2,0
+Avilés,3,2336,279,189,25
+Belmonte de Miranda / Miranda,4,18,0,2,0
+Bimenes,4,39,1,1,0
+Boal / Bual,1,7,1,1,0
+Cabrales,6,15,0,1,0
+Cabranes,4,8,0,1,0
+Candamo / Candamu,4,32,1,2,0
+Cangas del Narcea,2,294,51,40,5
+Cangas de Onís,6,91,8,4,2
+Caravia,6,,,,
+Carreño,5,263,10,9,4
+Caso / Casu,8,11,0,0,0
+Castrillón,3,606,128,72,18
+Castropol,1,12,1,1,1
+Coaña / Cuaña,1,27,1,1,1
+Colunga,6,37,3,1,1
+Corvera de Asturias / Corvera,3,358,60,31,4
+Cudillero / Cuideiru,3,113,8,6,2
+Degaña,2,,0,,0
+"Franco, El",1,21,2,1,0
+Gijón,5,8803,468,280,53
+Gozón,3,276,25,8,2
+Grado / Grau,4,311,184,134,15
+Grandas de Salime,1,5,0,0,0
+Ibias,2,16,0,0,0
+Illano / Eilao,1,,0,,
+Illas,3,30,11,7,0
+Langreo / Llangréu,8,1405,88,40,7
+Laviana,8,599,14,13,6
+Lena,7,443,7,4,3
+Valdés,1,192,11,9,3
+Llanera,4,261,26,10,3
+Llanes,6,198,33,29,5
+Mieres,7,1004,80,37,10
+Morcín,4,35,2,2,0
+Muros de Nalón / Muros,3,35,8,5,2
+Nava,4,116,6,4,0
+Navia,1,51,6,0,1
+Noreña,4,122,24,24,4
+Onís,6,6,0,0,1
+Oviedo,4,5184,577,367,69
+Parres,6,91,6,1,1
+Peñamellera Alta,6,,,,
+Peñamellera Baja,6,14,2,0,0
+Pesoz / Pezós,1,1,0,0,0
+Piloña,6,76,0,3,0
+Ponga,6,14,0,0,0
+Pravia,3,132,10,8,1
+Proaza,4,6,0,0,0
+Quirós,4,19,0,1,1
+"Regueras, Las / Regueres, Les",4,31,8,7,5
+Ribadedeva / Ribedeva,6,13,0,4,2
+Ribadesella / Ribesella,6,46,4,3,0
+Ribera de Arriba,4,26,6,4,1
+Riosa,4,61,2,2,0
+Salas,4,49,3,3,0
+SMRA,8,534,39,30,3
+San Martín de Oscos / Samartín d'Ozcos,1,,,,
+Santa Eulalia de Oscos / Santalla d'Ozcos,1,,,,
+San Tirso de Abres / San Tiso d'Abres,1,3,0,1,0
+Santo Adriano / Santu Adrianu,4,,4,,0
+Sariego,4,18,2,2,0
+Siero,4,1271,89,58,5
+Sobrescobio / Sobrescobiu,8,36,0,0,0
+Somiedo / Somiedu,4,10,0,6,0
+Soto del Barco,3,132,6,1,0
+Tapia de Casariego,1,31,15,9,2
+Taramundi,1,5,0,1,0
+Teverga,4,45,0,2,0
+Tineo,2,140,13,12,2
+Vegadeo,1,21,0,0,0
+Villanueva de Oscos,1,,,,
+Villaviciosa,5,369,11,7,4
+Villayón,1,,,,
+Yernes y Tameza / Tameza,4,,,,
